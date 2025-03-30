@@ -1,4 +1,4 @@
-# SEMIFINALS-1ST-ACTIVITY-LAB
+Python vs C++
 
-YT VIDEO :
-https://youtu.be/Eb6s9t8ozvI?si=io7STXckB3thFPPf
+YT VIDEO:
+https://youtube.com/shorts/BBk_frbybtU?si=LCsuK_v6EsDXv5-C
